@@ -23,4 +23,4 @@ A thorough check for duplicate entries using SQL queries and window functions co
 - **Removing Irrelevant Records**: Records with missing values that couldn't be meaningfully cleaned were removed from the dataset.
 
 ### 5. Final Table Creation
-The cleaned data was saved in a new table, `cafe_sales_clean`, with relevant columns and properly formatted values ready for further analysis.
+The cleaned data was saved in a new table, `cafe_sales_clean`, with relevant columns and properly formatted values ready for further analysis. Review final data [here.](https://github.com/Joeelwig/sqldatacleaningproject/blob/main/cafe_sales_clean.csv)
