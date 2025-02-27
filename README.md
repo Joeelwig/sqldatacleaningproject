@@ -1,8 +1,8 @@
 # Cafe Sales Data SQL Cleaning Project
 
 ## Project Overview
-This project involved cleaning the 2023 sales transaction data for a coffee shop. The raw data, stored in a [CSV file](https://github.com/Joeelwig/sqldatacleaningproject/blob/main/dirty_cafe_sales.csv)
- contained missing, incorrect, and improperly formatted values. Through SQL, the data has been cleaned and prepared for future exploratory analysis.
+This project involved cleaning the 2023 sales transaction data for a coffee shop. The [raw data](https://github.com/Joeelwig/sqldatacleaningproject/blob/main/dirty_cafe_sales.csv)
+ contains missing, incorrect, and improperly formatted values. Through SQL, the data has been cleaned and prepared for future exploratory analysis.
 
 ## Steps in the Data Cleaning Process
 
