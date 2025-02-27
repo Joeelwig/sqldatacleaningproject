@@ -4,7 +4,7 @@
 This project involved cleaning the 2023 sales transaction data for a coffee shop. The [raw data](https://github.com/Joeelwig/sqldatacleaningproject/blob/main/dirty_cafe_sales.csv)
  contains missing, incorrect, and improperly formatted values. Through SQL, the data has been cleaned and prepared for future exploratory analysis.
 
-## Steps in the Data Cleaning Process
+## Steps in the [Data Cleaning Process](https://github.com/Joeelwig/sqldatacleaningproject/blob/main/Cafe%20Sales%20Data%20Cleaning.sql)
 
 ### 1. Understanding the Schema
 The data consisted of several columns, all initially stored as text. Numerical fields like `quantity`, `price_per_unit`, and `total_spent` were converted to numeric types, while the `transaction_date` field was reformatted from text to a proper date.
